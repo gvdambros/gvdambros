@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Gustavo Dambros</h1>
+<h1>Hello, I'm Gustavo Dambros</h1>
 
 Computer Engineer graduated from UFRGS, PSM and PSPO certified by Scrum.org, Developer and Scrum Master at Nelogica with experience in delivering software solutions for real-world problems using agile software development.
 
